@@ -2,5 +2,5 @@
 Different scripts for robotics purposes implementing:
 - Denavit Hartenberg parameters
 - Transformation matrices
-- Robot Dynamics
--  
+- Robot Dynamics: Newton-Euler method for real-time computation (NE)
+
